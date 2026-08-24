@@ -126,12 +126,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME](https://github.com/borkarmanthan)&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/borkarmanthan&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=borkarmanthan&theme=tokyonight" />
 </p>
 
 > Replace `YOUR_GITHUB_USERNAME` above with your actual GitHub handle to activate the live stats cards.
