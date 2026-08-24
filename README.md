@@ -131,7 +131,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/borkarmanthan&theme=tokyonight" />
 </p>
 
 > Replace `YOUR_GITHUB_USERNAME` above with your actual GitHub handle to activate the live stats cards.
